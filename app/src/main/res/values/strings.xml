@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bet History</string>
+    <string name="refresh">Refresh</string>
+    <string name="stake">Stake</string>
+    <string name="return_title">Return</string>
+    <string name="odds">Odds</string>
+</resources>
